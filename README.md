@@ -243,4 +243,4 @@ This project is licensed under the MIT License.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Radix UI](https://radix-ui.com/) - Low-level UI primitives
 
-- Special thanks to Khurram Ali ([GiraffeReact](https://www.youtube.com/@GiraffeReact)) for his amazing tutorial that helped build this project. His detailed walkthrough and guidance were invaluable.
+- Special thanks to Khurram Ali ([GiraffeReact](https://www.youtube.com/@GiraffeReactor)) for his amazing tutorial that helped build this project. His detailed walkthrough and guidance were invaluable.
