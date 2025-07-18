@@ -235,12 +235,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+## 🙏 Thanks & Acknowledgements
 
 - [Better Auth](https://www.better-auth.com/) - Amazing authentication library
 - [Next.js](https://nextjs.org/) - The React framework
 - [Prisma](https://prisma.io/) - Next-generation ORM
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Radix UI](https://radix-ui.com/) - Low-level UI primitives
+
+##
 
 - Special thanks to Khurram Ali ([GiraffeReact](https://www.youtube.com/@GiraffeReactor)) for his amazing tutorial that helped build this project. His detailed walkthrough and guidance were invaluable.
