@@ -245,4 +245,4 @@ This project is licensed under the MIT License.
 
 ##
 
-- Special thanks to Khurram Ali ([GiraffeReact](https://www.youtube.com/@GiraffeReactor)) for his amazing tutorial that helped build this project. His detailed walkthrough and guidance were invaluable.
+- Special thanks to Khurram Ali ([GiraffeReactor](https://www.youtube.com/@GiraffeReactor)) for his amazing tutorial that helped build this project. His detailed walkthrough and guidance were invaluable.
